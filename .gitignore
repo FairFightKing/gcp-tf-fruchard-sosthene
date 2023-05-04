@@ -1,0 +1,7 @@
+/sensitives.auto.tfvars
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform/
